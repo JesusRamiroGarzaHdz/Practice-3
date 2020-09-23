@@ -68,4 +68,4 @@ Screenshot the image of the complete PBC board whith the attached electronic com
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+This third laboratory practice was the conclusion of the project that we have been developing these last weeks. With this practice I learned how to verify my layout searching for possible errors in the design or in the connections of the PCB. We also finally obtained the 3d model of our system learning how to use the “Gerber” function to plot our model and the different ways we can observe the layers and components of our system as if it was already finished and built. It was a very interesting practice and I learned a lot of the ways you can verify designs and check if they are viable without having to actually build them.
